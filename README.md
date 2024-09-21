@@ -1,4 +1,4 @@
-[![Compile Sketch ESP32](https://mygit.ipv64.net/pixeledi/GIiteaAciton_ESP32XIAO/actions/workflows/compile-sketch.yaml/badge.svg)](https://mygit.ipv64.net/pixeledi/GIiteaAciton_ESP32XIAO/actions/workflows/compile-sketch.yaml)
+[![Compile Sketch ESP32](https://mygit.ipv64.net/pixeledi/GIiteaAciton_ESP32XIAO/actions/workflows/build.yaml/badge.svg)](https://mygit.ipv64.net/pixeledi/GIiteaAciton_ESP32XIAO/actions/workflows/build.yaml)
 # ESP32XIAO-GitHub-Action
 
 ### Commands with Arduino-CLI
