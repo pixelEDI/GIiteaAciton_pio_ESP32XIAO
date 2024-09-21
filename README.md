@@ -1,5 +1,7 @@
-[![Compile Sketch ESP32](https://mygit.ipv64.net/pixeledi/GIiteaAciton_ESP32XIAO/actions/workflows/build.yaml/badge.svg)](https://mygit.ipv64.net/pixeledi/GIiteaAciton_ESP32XIAO/actions/workflows/build.yaml)
 # ESP32XIAO-GitHub-Action
+
+Badge Code
+`[![Compile Sketch ESP32](https://mygit.ipv64.net/pixeledi/GIiteaAciton_ESP32XIAO/actions/workflows/build.yaml/badge.svg)](https://mygit.ipv64.net/pixeledi/GIiteaAciton_ESP32XIAO/actions/workflows/build.yaml)`
 
 ### Commands with Arduino-CLI
 - arduino-cli list all
@@ -8,7 +10,14 @@
 - arduino-cli compile --fqbn esp32:esp32:XIAO_ESP32C3 .
 - arduino-cli upload -p /dev/ttyACM0 --fqbn esp32:esp32:XIAO_ESP32C3 .
 
+## Videos
+Playlist: https://www.youtube.com/playlist?list=PLluslK6uBf4tOir-zkFXTTtdfZk6BK0MW
 
+## Alle Repos zur Serie
+- https://github.com/pixelEDI/GitHubAction_ArduinoR4
+- https://github.com/pixelEDI/GitHubAction_ESP32XIAO
+- https://github.com/pixelEDI/GiteaAction_ArduinoR4
+- https://github.com/pixelEDI/GIiteaAciton_pio_ESP32XIAO
 
 ```mermaid
 graph TD
